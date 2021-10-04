@@ -23,6 +23,16 @@
 	height: 250px;
 }
 
+.centered {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 0px;
+}
+
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -3526,3 +3536,4 @@ input, select, textarea {
 			}
 
 	}
+	
